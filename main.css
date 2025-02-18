@@ -1,0 +1,1249 @@
+
+
+body{
+   margin: 0;
+   padding: 0;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+}
+
+.menu{
+    display: flex;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.logo{
+    font-size: 1.5rem;
+}
+
+li{
+    margin-right:40px;
+}
+
+li a{
+    text-decoration: none;
+    color: white;
+    
+}
+.about{
+    margin-right: 30px;
+}
+
+.hamburger{
+    display: none;
+    cursor: pointer;
+    font-size: 2rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.body{
+     margin-left: 200px;
+     margin-top: 200px;
+
+}
+
+.service{
+    font-size: 70px;
+    font-weight: bold;
+    margin-left: 100px;
+}
+
+.qoraal{
+   font-size: 16px;
+   margin-right: 20px;
+   margin-left: 100px;
+}
+
+.visit{
+    margin-left: 190px;
+    background-color: rgb(255, 109, 31);
+    color: white;
+    border: none;
+    height: 37px;
+    width: 90px;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+
+.more{
+    background-color: aliceblue;
+    height: 35px;
+    width: 90px;
+  
+}
+
+.dhex{
+    display: flex;
+    flex-direction: row;
+}
+
+.ali{
+    margin-left: 70px;
+    margin-top: 60px;
+   
+}
+
+.sawir{
+    height: 520px;
+    width: 450px;
+    border-radius: 20px;
+    
+}
+
+
+.needs{
+    margin-left: 200px;
+    font-size: 35px;
+    margin-top: 80px;
+    padding-top: 20px;
+    font-weight: bold;
+}
+
+.does{
+    margin-left: 200px;
+    font-size: 35px;
+   font-weight: bold;
+   
+}
+
+.labaad{
+    background-color: antiquewhite;
+}
+
+.essay1{
+    margin-top: 25px;
+    font-size: 16px;
+   margin-left: 180px;
+   
+}
+
+.essay2{
+    margin-left: 180px;
+   
+}
+
+.essay3{
+    margin-left: 180px;
+   
+}
+
+.saddex{
+    display: flex;
+    flex-direction: rows;
+    background-color: hsla(0, 5%, 80%, 0.868);
+}
+
+.expert{
+    margin-top: 140px;
+    margin-left: 230px;
+    font-weight: bold;
+}
+
+.group{
+    margin-left: 190px;
+    margin-top: 10px;
+}
+.group3{
+    margin-left: 190px;
+    margin-top: 10px;
+}
+
+.expert2{
+    font-weight: bold;
+    margin-left: 230px;
+    margin-top: 50px;
+}
+
+.expert3{
+    font-weight: bold;
+    margin-left: 230px;
+    margin-top: 50px;
+}
+
+.expert4{
+    font-weight: bold;
+    margin-left: 230px;
+    margin-top: 50px;
+}
+
+.time{
+   margin-left: 300px;
+   margin-top: 30px;
+   font-size: 30px;
+   color: rgb(16, 234, 92);
+   font-weight: bold;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+ 
+
+}
+
+.users{
+    margin-left: 260px;
+    margin-top: 15px;
+    font-size: 18px;
+    
+}
+
+.time2{
+    font-size: 30px;
+    color: rgb(16, 234, 92);
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 260px;
+    margin-top: 40px; 
+    
+}
+
+.us{
+    margin-left: 190px;
+    margin-top: 15px;
+    font-size: 18px;
+    padding-bottom: 30px;
+
+}
+
+
+.case{
+    margin-top: 90px;
+    font-size: 28px;
+    margin-left: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.conduct{
+    font-weight: bold;
+    font-size: 28px;
+    margin-left: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.case33{
+    margin-top: 70px;
+    font-size: 28px;
+    margin-left: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.conduct33{
+    font-weight: bold;
+    font-size: 28px;
+    margin-left: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+.sawir1{
+   height: 320px; 
+   margin-top: 70px;
+   margin-left: 80px;
+
+}
+
+.consult{
+    margin-left: 80px;
+    font-weight: bold;
+    font-size: 17px;
+    margin-top: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sharp{
+    margin-left: 80px;
+    margin-top: 10px;
+  
+}
+
+.todobo{
+    display: flex;
+    flex-direction: row;
+}
+
+.sawir2{
+    height: 320px; 
+    margin-top: 70px;
+    margin-left: 280px;
+    
+ }
+
+
+ .consult2{
+    margin-left: 630px;
+    font-weight: bold;
+    font-size: 17px;
+    margin-top: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sharp2{
+    margin-left: 818px;
+    margin-top: -20px;
+  
+}
+
+.let{
+    margin-top: 80px;
+    margin-left: 640px;
+   
+}
+
+.talks{
+    background-color: rgb(255, 109, 31);
+    color: white;
+    border: none;
+    height: 45px;
+    width: 115px;
+    font-size: 15px;
+    border-radius: 2px;
+}
+
+.needs2{
+    margin-left: 200px;
+    font-size: 35px;
+    margin-top: 140px;
+    padding-top: 20px;
+    font-weight: bold;
+    
+}
+
+.does2{
+    margin-left: 200px;
+    font-size: 35px;
+   font-weight: bold;
+   
+}
+
+.consult4{
+    margin-left: 200px;
+    font-weight: bold;
+    font-size: 17px;
+    margin-top: 64px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sharp4{
+    margin-left: 200px;
+    margin-top: 10px;
+    
+}
+.sharp5{
+    margin-left: 200px;
+    margin-top: 10px;
+  
+}
+
+.consult46{
+    margin-left: 200px;
+    font-weight: bold;
+    font-size: 17px;
+    margin-top: 64px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sharp46{
+    margin-left: 200px;
+    margin-top: 10px;
+    
+}
+.sharp56{
+    margin-left: 200px;
+    margin-top: 10px;
+  
+}
+
+
+.consult88{
+    margin-left: 850px;
+    font-weight: bold;
+    font-size: 17px;
+    margin-top: -76px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.sharp88{
+    margin-left: 850px;
+    margin-top: 10px;
+  
+}
+.sharp88{
+    margin-left: 850px;
+    margin-top: 10px;
+  
+}
+
+
+.consult99{
+    margin-left: 850px;
+    font-weight: bold;
+    font-size: 17px;
+    margin-top: -220px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sharp99{
+    margin-left: 850px;
+    margin-top: 10px;
+  
+}
+.sharp99{
+    margin-left: 850px;
+    margin-top: 10px;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.consult7{
+    margin-left: 200px;
+    font-weight: bold;
+    font-size: 17px;
+    margin-top: 64px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sharp7{
+    margin-left: 200px;
+    margin-top: 10px;
+  
+}
+.sharp7{
+    margin-left: 200px;
+    margin-top: 10px;
+  
+}
+
+
+.consult6{
+    margin-left: 850px;
+    font-weight: bold;
+    font-size: 17px;
+    margin-top: -76px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.sharp8{
+    margin-left: 850px;
+    margin-top: 10px;
+  
+}
+.sharp9{
+    margin-left: 850px;
+    margin-top: 10px;
+  
+}
+
+
+
+
+.div1{
+    margin-top: 400px;
+    margin-left: 260px;
+    font-weight: bold;
+    font-size: 20px;
+    padding-top: 40px;
+}
+
+.div2{
+    margin-top: 10px;
+    margin-left: 200px;
+    font-size: 13px;
+}
+
+.div3{
+    margin-top: 2px;
+    margin-left: 200px;
+    font-size: 13px;
+}
+
+.facebook{
+    height: 30px;
+    margin-left: 200px;
+    margin-top: 10px;
+}
+
+.instagram{
+    height: 30px;
+    margin-left: 8px;
+    margin-top: 9px;
+}
+
+.twitter{
+    height: 30px;
+    margin-left: 8px;
+    margin-top: 9px;
+}
+
+.linked{
+    height: 30px;
+    margin-left: 8px;
+    margin-top: 9px;
+}
+
+.whatsapp{
+    height: 30px;
+    margin-left: 8px;
+    margin-top: 9px;
+}
+
+.youtube{
+    height: 30px;
+    margin-left: 8px;
+    margin-top: 9px;
+}
+
+
+.keep{
+margin-left: 390px;
+font-size: 23px;
+margin-top: -80px;
+}
+
+.news{
+    margin-left: 390px;
+    font-size: 23px;
+}
+
+.first{
+    margin-left: 390px;
+    margin-top: 10px;
+    font-size: 14px;
+    
+}
+
+.holder{
+    margin-left: 375px; 
+    height: 30px;
+    width: 270px;
+    margin-top: 13px;
+   border-radius: 4px;
+   border: none;
+}
+
+.meup{
+   margin-top: 57px; 
+   margin-left: -274px;
+   
+}
+
+.qayb-labaad{
+   
+    margin-top: 80px;
+    
+}
+
+.labo-sawir{
+    display: flex;
+}
+.footer{
+    display: flex;
+}
+
+.footer-guud{
+    background-color: hsla(0, 1%, 79%, 0.868);
+    height: 330px;
+    
+}
+
+.social{
+    display: flex;
+}
+
+
+@media screen and (max-width:600px){
+    body{
+        margin: 0;
+        padding: 0;
+       
+    }
+    
+    
+    .menu{
+        display: none;
+        width: 100%;
+        text-align: center;
+        flex-direction: column;
+    }
+
+    .menu.active{
+        display: flex;
+    }
+    .menu li{
+        margin: 20px 0;
+    }
+    .hamburger{
+        display: block;
+    }
+
+    .dhex{
+        display: block;
+    }
+
+    .sawir{
+        height: 300px;
+        width: 340px;
+        margin-left: -10%;
+    }
+   
+    .service{
+        margin-left: -60%;
+        font-size: 34px;
+        margin-top: -60%;
+     }
+
+     .qoraal{
+        margin-left: -80%;
+        font-size: 16px;
+        margin-top: 5%;
+     }
+
+     .visit{
+        margin-left: -50%;
+     }
+
+     .saddex{
+        display: block;
+     }
+
+     .needs{
+        font-size: 29px;
+        margin-left: 10%;
+     }
+
+     .does{
+        font-size: 29px;
+        margin-left: 10%;
+     }
+
+     .essay1{
+        margin-left: 5%;
+     }
+     .essay2{
+        margin-left: 5%;
+     }
+     .essay3{
+        margin-left: 3%;
+     }
+
+     .time{
+        margin-left: 30%;
+     }
+
+     .users{
+         margin-left: 20%;
+     }
+
+     .time2{
+        margin-left: 25%;
+     }
+
+     .us{
+        margin-left: 10%;
+     }
+
+     .expert{
+        margin-left: 10%;
+        margin-top: 10%;
+     }
+     .group{
+        margin-left: 10%;
+     }
+
+     .expert2{
+        margin-left: 10%;
+     }
+
+     .expert3{
+        margin-left: 10%;
+     }
+     .expert4{
+        margin-left: 10%;
+     }
+
+     .group3{
+        margin-left: 10%;
+        padding-bottom: 10%;
+     }
+
+     .case{
+        margin-left: 10%;
+        font-size: 25px;
+     }
+
+     .conduct{
+        margin-left: 10%;
+        font-size: 25px;
+     }
+
+     .sawir1{
+        margin-left: 7%;
+        height: 230px;
+     }
+     .todobo{
+        display: block;
+     }
+
+     .labo-sawir{
+        display: block;
+     }
+
+     .consult{
+        margin-top: -80%;
+     }
+
+     .sharp{
+        margin-left: 15%;
+        margin-top: -84%;
+     }
+
+     .sawir2{
+        margin-left: 14%;
+        height: 230px;
+        margin-top: 30%;
+     }
+
+     .consult2{
+        margin-left: 15%;
+        margin-top: 82%;
+     }
+
+     .sharp2{
+        margin-left: 15%;
+        margin-top: 83%;
+     }
+     
+     .let{
+        margin-left: 30%;
+        margin-top: 10%;
+     }
+
+     .needs2{
+        margin-left: 10%;
+        font-size: 28px;
+        margin-top: 20%;
+     }
+     .does2{
+        margin-left: 10%;
+        font-size: 28px;
+        margin-top: -15%;
+     }
+
+     .consult4{
+        margin-left: 15%;
+        margin-top: 16%;
+
+     }
+
+     .sharp4{
+        margin-left: 15%;
+     }
+
+     .sharp5{
+        margin-left: 15%;
+     }
+
+     .consult46{
+        margin-left: 15%;
+        margin-top: 8%;
+
+     }
+
+     .sharp46{
+        margin-left: 15%;
+     }
+
+     .sharp56{
+        margin-left: 15%;
+     }
+
+     .consult88{
+        margin-left: 15%;
+        margin-top: 8%;
+
+     }
+
+     .sharp88{
+        margin-left: 15%;
+     }
+
+     .sharp88{
+        margin-left: 15%;
+     }
+
+     .consult99{
+        margin-left: 15%;
+        margin-top: 8%;
+
+     }
+
+     .sharp99{
+        margin-left: 15%;
+     }
+
+     .sharp99{
+        margin-left: 15%;
+     }
+
+     .footer{
+        display: block;
+     }
+
+     .div1{
+        margin-left: 30%;
+        margin-top: 10%;
+     }
+
+     .div2{
+        margin-left: 20%;
+     }
+
+     .div3{
+        margin-left: 20%;
+     }
+
+     .facebook{
+        margin-left: 330%;
+     }
+
+     .youtube{
+        margin-left: 380%;
+     }
+
+     .whatsapp{
+        margin-left: 370%;
+     }
+     .linked{
+        margin-left: 360%;
+     }
+
+     .twitter{
+        margin-left: 350%;
+     }
+
+     .instagram{
+        margin-left: 340%;
+     }
+
+
+     .keep{
+        margin-left: 20%;
+        margin-top: 4%;
+        font-size: 20px;
+     }
+
+     .news{
+        margin-left: 20%;
+        font-size: 20px;
+     }
+
+     .first{
+        margin-left: 20%;
+        font-size: 15px;
+     }
+     .holder{
+        margin-left: 20%;
+     }
+
+     .meup{
+        margin-left: 20%;
+        margin-top: 1%;
+        
+     }
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    }
+
+
+
+
+
+
+
+    @media screen and (max-width:360px){
+        body{
+            margin: 0;
+            padding: 0;
+           
+        }
+        
+        
+        .menu{
+            display: none;
+            width: 100%;
+            text-align: center;
+            flex-direction: column;
+        }
+    
+        .menu.active{
+            display: flex;
+        }
+        .menu li{
+            margin: 20px 0;
+        }
+        .hamburger{
+            display: block;
+        }
+    
+        .dhex{
+            display: block;
+        }
+    
+        .sawir{
+            height: 260px;
+            width: 270px;
+            margin-left: -14%;
+        }
+       
+        .service{
+            margin-left: -90%;
+            font-size: 34px;
+            margin-top: -90%;
+         }
+    
+         .qoraal{
+            margin-left: -100%;
+            font-size: 16px;
+            margin-top: 5%;
+         }
+    
+         .visit{
+            margin-left: -90%;
+         }
+    
+         .saddex{
+            display: block;
+         }
+    
+         .needs{
+            font-size: 29px;
+            margin-left: 10%;
+         }
+    
+         .does{
+            font-size: 29px;
+            margin-left: 10%;
+         }
+    
+         .essay1{
+            margin-left: 5%;
+         }
+         .essay2{
+            margin-left: 5%;
+         }
+         .essay3{
+            margin-left: 3%;
+         }
+    
+         .time{
+            margin-left: 30%;
+         }
+    
+         .users{
+             margin-left: 20%;
+         }
+    
+         .time2{
+            margin-left: 25%;
+         }
+    
+         .us{
+            margin-left: 10%;
+         }
+    
+         .expert{
+            margin-left: 10%;
+            margin-top: 10%;
+         }
+         .group{
+            margin-left: 10%;
+         }
+    
+         .expert2{
+            margin-left: 10%;
+         }
+    
+         .expert3{
+            margin-left: 10%;
+         }
+         .expert4{
+            margin-left: 10%;
+         }
+    
+         .group3{
+            margin-left: 10%;
+            padding-bottom: 10%;
+         }
+    
+         .case{
+            margin-left: 10%;
+            font-size: 25px;
+         }
+    
+         .conduct{
+            margin-left: 10%;
+            font-size: 25px;
+         }
+    
+         .sawir1{
+            margin-left: 7%;
+            height: 200px;
+         }
+         .todobo{
+            display: block;
+         }
+    
+         .labo-sawir{
+            display: block;
+         }
+    
+         .consult{
+            margin-top: -90%;
+         }
+    
+         .sharp{
+            margin-left: 15%;
+            margin-top: -91%;
+         }
+    
+         .sawir2{
+            margin-left: 10%;
+            height: 220px;
+            margin-top: 35%;
+         }
+    
+         .consult2{
+            margin-left: 15%;
+            margin-top: 88%;
+         }
+    
+         .sharp2{
+            margin-left: 15%;
+            margin-top: 86%;
+         }
+         
+         .let{
+            margin-left: 30%;
+            margin-top: 10%;
+         }
+    
+         .needs2{
+            margin-left: 10%;
+            font-size: 28px;
+            margin-top: 20%;
+         }
+         .does2{
+            margin-left: 10%;
+            font-size: 28px;
+            margin-top: -17%;
+         }
+    
+         .consult4{
+            margin-left: 15%;
+            margin-top: 16%;
+    
+         }
+    
+         .sharp4{
+            margin-left: 15%;
+         }
+    
+         .sharp5{
+            margin-left: 15%;
+         }
+    
+         .consult46{
+            margin-left: 15%;
+            margin-top: 8%;
+    
+         }
+    
+         .sharp46{
+            margin-left: 15%;
+         }
+    
+         .sharp56{
+            margin-left: 15%;
+         }
+    
+         .consult88{
+            margin-left: 15%;
+            margin-top: 8%;
+    
+         }
+    
+         .sharp88{
+            margin-left: 15%;
+         }
+    
+         .sharp88{
+            margin-left: 15%;
+         }
+    
+         .consult99{
+            margin-left: 15%;
+            margin-top: 8%;
+    
+         }
+    
+         .sharp99{
+            margin-left: 15%;
+         }
+    
+         .sharp99{
+            margin-left: 15%;
+         }
+    
+         .footer{
+            display: block;
+         }
+    
+         .div1{
+            margin-left: 30%;
+            margin-top: 10%;
+         }
+    
+         .div2{
+            margin-left: 20%;
+         }
+    
+         .div3{
+            margin-left: 20%;
+         }
+    
+         .facebook{
+            margin-left: 330%;
+         }
+    
+         .youtube{
+            margin-left: 380%;
+         }
+    
+         .whatsapp{
+            margin-left: 370%;
+         }
+         .linked{
+            margin-left: 360%;
+         }
+    
+         .twitter{
+            margin-left: 350%;
+         }
+    
+         .instagram{
+            margin-left: 340%;
+         }
+    
+    
+         .keep{
+            margin-left: 20%;
+            margin-top: 4%;
+            font-size: 20px;
+         }
+    
+         .news{
+            margin-left: 20%;
+            font-size: 20px;
+         }
+    
+         .first{
+            margin-left: 20%;
+            font-size: 15px;
+         }
+         .holder{
+            margin-left: 15%;
+         }
+    
+         .meup{
+            margin-left: 20%;
+            margin-top: 1%;
+            
+         }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        }
+
+
+
+
+
+    
+
+
+
